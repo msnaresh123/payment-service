@@ -5,8 +5,8 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>payment-service</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.1-SNAPSHOT</version>
-  <name>Maven Project</name>
+  <version>1.2.8-SNAPSHOT</version>
+  <name>payment-service</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
@@ -31,13 +31,13 @@
     <repository>
         <id>central</id>
         <name>libs-snapshot</name>
-        <url>http://54.81.49.238:8081/artifactory/libs-release</url>
+        <url>http://50.19.158.255:8081/artifactory/libs-release</url>
     </repository>
 
     <snapshotRepository>
         <id>snapshots</id>
         <name>libs-snapshot</name>
-        <url>http://54.81.49.238:8081/artifactory/libs-snapshot</url>
+        <url>http://50.19.158.255:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 
