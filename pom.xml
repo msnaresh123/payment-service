@@ -31,13 +31,13 @@
     <repository>
         <id>central</id>
         <name>libs-snapshot</name>
-        <url>http://54.81.49.238:8081/artifactory/libs-release</url>
+        <url>http://50.19.158.255:8081/artifactory/libs-release</url>
     </repository>
 
     <snapshotRepository>
         <id>snapshots</id>
         <name>libs-snapshot</name>
-        <url>http://54.81.49.238:8081/artifactory/libs-snapshot</url>
+        <url>http://50.19.158.255:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 
@@ -257,10 +257,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/sample-web-app.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/sample-web-app.git</developerConnection>
+    <connection>scm:git:https://github.com/msnaresh123/payment-service.git</connection>
+    <developerConnection>scm:git:https://github.com/msnaresh123/payment-service.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/sample-web-app.git</url>
+    <url>scm:git:https://github.com/msnaresh123/payment-service.git</url>
   </scm>
 
   <prerequisites>
@@ -268,4 +268,3 @@
   </prerequisites>
 
 </project>
-#Naresh
