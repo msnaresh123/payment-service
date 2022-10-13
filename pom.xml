@@ -257,10 +257,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/sample-web-app.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/sample-web-app.git</developerConnection>
+    <connection>scm:git:https://github.com/msnaresh123/payment-service.git</connection>
+    <developerConnection>scm:git:https://github.com/msnaresh123/payment-service.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/sample-web-app.git</url>
+    <url>scm:git:https://github.com/msnaresh123/payment-service.git</url>
   </scm>
 
   <prerequisites>
